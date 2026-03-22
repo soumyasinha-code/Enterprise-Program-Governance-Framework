@@ -1,0 +1,175 @@
+# Case Study 2: GlamAR – Scaling AR Commerce & Virtual Try-On Systems
+
+---
+
+## 🧩 Problem Statement
+
+E-commerce platforms struggle with:
+
+- Lack of product visualization (2D images ≠ real experience)
+- High return rates due to mismatch in expectations
+- Low engagement and conversion in online shopping journeys
+- Inability to replicate in-store personalization digitally
+
+**Core challenge:**
+
+> How do you bridge the gap between **physical product experience** and **digital commerce**?
+
+---
+
+## 🌐 Product Overview
+
+GlamAR is a **B2B SaaS platform** that enables brands to create **3D, AR, and VR-based shopping experiences**.
+
+It allows businesses to:
+
+- Create high-quality 3D product models  
+- Enable AR-based virtual try-ons  
+- Build immersive virtual stores  
+- Integrate AI-driven personalization  
+
+---
+
+## 🏗️ System Context
+
+GlamAR operates across three core layers:
+
+### 1. 3D Asset Layer
+- 3D model creation (low poly / high poly)
+- 360° product visualization
+- Product configurators
+
+### 2. Experience Layer (AR/VR)
+- Virtual try-on (makeup, jewelry, eyewear, etc.)
+- AR-based product interaction
+- Virtual stores and environments
+
+### 3. Intelligence Layer (AI)
+- AI facial/skin analysis
+- Personalized recommendations
+- Real-time rendering adjustments
+
+---
+
+## ⚙️ Key Capabilities
+
+### 🔹 3D Commerce Enablement
+- Scalable 3D model creation  
+- 360° product viewing  
+- Reduced dependency on photoshoots  
+
+### 🔹 AR Virtual Try-On
+- Real-time overlay using device camera  
+- Works across multiple categories  
+- Improves purchase confidence  
+
+### 🔹 AI Personalization
+- Skin and feature analysis  
+- Smart product recommendations  
+
+### 🔹 Virtual Stores
+- Immersive digital shopping environments  
+- Interactive product discovery  
+
+---
+
+## 🚧 Execution Challenges
+
+### 1. Real-Time Rendering at Scale
+- Maintaining low latency across devices  
+- Handling device fragmentation  
+
+### 2. 3D Asset Standardization
+- Managing multiple formats (GLB, USDZ, FBX)  
+- Ensuring cross-platform consistency  
+
+### 3. Accuracy vs Performance
+- High realism vs fast loading  
+- Lighting, camera, and skin tone variability  
+
+### 4. Integration Complexity
+- Embedding into existing commerce stacks  
+- Ensuring plug-and-play experience  
+
+### 5. User Trust & Adoption
+- Building confidence in virtual try-ons  
+- Reducing skepticism  
+
+---
+
+## 🧠 Program Management Lens
+
+GlamAR is a **platform transformation program**, not just a feature.
+
+### Key Program Tracks
+
+- **Platform Development** → AR engine + AI models  
+- **Asset Pipeline** → Ingestion → Modeling → Optimization  
+- **Integration Layer** → APIs, SDKs  
+- **Customer Enablement** → Onboarding & adoption  
+- **Governance** → Performance, cost, scalability  
+
+---
+
+## 🔄 Execution Flow
+
+1. Product data is uploaded  
+2. 3D models are created and optimized  
+3. Assets are stored and managed  
+4. AR/VR experiences are generated  
+5. Integrated into web/app via SDK  
+6. Users interact via camera-enabled devices  
+
+---
+
+## ⚖️ Key Trade-offs
+
+| Decision Area | Trade-off |
+|-------------|----------|
+| Realism vs Performance | Better visuals increase load time |
+| Customization vs Scale | Custom assets vs standardized pipelines |
+| Compatibility vs Experience | Wider support vs premium experience |
+| AI Accuracy vs Speed | Precision vs real-time performance |
+
+---
+
+## 📊 Business Impact
+
+- Increased user engagement  
+- Reduced return rates  
+- Improved conversion rates  
+
+**Key drivers:**
+- Better product visualization  
+- Higher user confidence  
+- Interactive experience  
+
+---
+
+## 🧩 Key Learnings
+
+- AR is a **conversion driver**, not just a feature  
+- 3D asset pipelines are foundational  
+- AI enhances decision-making  
+- Integration simplicity drives adoption  
+- Governance becomes critical at scale  
+
+---
+
+## 🚀 Future Opportunities
+
+- AI styling assistants  
+- Immersive virtual storefronts  
+- Voice + AR commerce  
+- Hyper-personalized shopping  
+
+---
+
+## ✍️ Final Thought
+
+> The future of commerce is not browsing.  
+> It’s **experiencing before buying**.
+
+**Shift:**
+From → “See product”  
+To → “Experience product”
